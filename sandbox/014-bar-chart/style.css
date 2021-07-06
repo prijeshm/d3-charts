@@ -1,0 +1,14 @@
+.tooltip {
+    display: none;
+    background-color: #fcfcfc;
+    position: absolute;
+    min-width: 80px;
+    height: 40px;
+    border-radius: 6px;
+    border: #ddd 1px solid;
+    padding: 8px;
+}
+
+.title {
+    font-weight: bold;
+}

@@ -16,5 +16,14 @@
     { "name": "Val-15", "value": 150 },
     { "name": "Val-16", "value": 106 },
     { "name": "Val-17", "value": 170 },
-    { "name": "Val-18", "value": 18 }
+    { "name": "Val-18", "value": 18 },
+    { "name": "Val-1111", "value": 100 },
+    { "name": "Val-2111", "value": 2 },
+    { "name": "Val-3111", "value": 30 },
+    { "name": "Val-4111", "value": 40 },
+    { "name": "Val-5111", "value": 15 },
+    { "name": "Val-6111", "value": 16 },
+    { "name": "Val-7111", "value": 70 },
+    { "name": "Val-8111", "value": 80 },
+    { "name": "Val-9111", "value": 90 }
 ]
